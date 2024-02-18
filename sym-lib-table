@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name Commodore)(type Legacy)(uri /home/greg/nfs/KiCad/CommodorePlus4/Commodore.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "Commodore")(type "KiCad")(uri "${KIPRJMOD}/Commodore.kicad_sym")(options "")(descr ""))
+  (lib (name "Commodore Plus 4-rescue")(type "KiCad")(uri "${KIPRJMOD}/Commodore Plus 4-rescue.kicad_sym")(options "")(descr ""))
 )
